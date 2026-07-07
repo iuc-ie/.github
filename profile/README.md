@@ -1,30 +1,31 @@
-# Istanbul University-Cerrahpasa | Endustri Muhendisligi
+# İstanbul Üniversitesi-Cerrahpaşa · Endüstri Mühendisliği
 
-**Gercek firmalar. Gercek veri. Calisan, tekrarlanabilir kod.**
+### Gerçek firmalar. Gerçek veri. Çalışan, tekrarlanabilir kod.
 
-Bu organizasyon, bolumumuz ogrencilerinin bitirme projelerinin acik kaynak kodlarini barindirir. Her proje gercek bir sektor ortagiyla, gercek bir is problemini cozmek uzere gelistirildi — sonuclari olculebilir, kodu klonlanip calistirilabilir.
+Bu organizasyon, bölümümüz öğrencilerinin **bitirme projelerinin açık kaynak kodlarını** barındırır. Her proje gerçek bir sektör ortağıyla, gerçek bir iş problemini çözmek üzere geliştirildi — sonuçları ölçülebilir, kodu klonlanıp çalıştırılabilir.
 
-MUDEK/EUR-ACE akreditasyonlu (2025-2028) bir programiz; mezunlarimizin %71'i ilk 6 ayda ise basliyor (Kaynak: REBIS).
-
----
-
-### Ziyaretci Rehberi
-- **YKS adaylari / veliler:** Burada, mezun olunca sahip olacaginiz portfoyun ornekleri var. "Iyi bolum" demiyoruz — kaniti gosteriyoruz.
-- **Isverenler / IK:** Mezunumuzu ise almadan once kodunu gorun. Her repoda problem, yontem ve olculebilir sonuc yer alir.
-- **Akademisyenler:** Projeler surumlenmis, DOI ile atif yapilabilir ve tekrarlanabilir; yillik kohort arsivi olarak buyur.
+**MÜDEK / EUR-ACE** akreditasyonlu (2025–2028) bir programız; mezunlarımızın **%71'i ilk 6 ayda** işe başlıyor *(Kaynak: REBİS)*.
 
 ---
 
-### 2026 Kohortu — One Cikan Projeler
-| Proje | Sektor Ortagi | Ne yapti? |
+### 👋 Ziyaretçi Rehberi
+- **🎓 YKS adayları / veliler:** Mezun olunca sahip olacağınız portföyün örnekleri burada. "İyi bölüm" demiyoruz — kanıtı gösteriyoruz.
+- **💼 İşverenler / İK:** Mezunumuzu işe almadan önce kodunu görün. Her repoda problem, yöntem ve ölçülebilir sonuç yer alır.
+- **🔬 Akademisyenler:** Projeler sürümlenmiş, tekrarlanabilir ve DOI ile atıf yapılabilir olacak şekilde arşivleniyor.
+
+---
+
+### 📁 2026 Kohortu — Öne Çıkan Projeler
+| Proje | Alan | Ne yapıyor? |
 |---|---|---|
-| intermittent-demand-forecasting | Turan Makina | Araliklı talep / stok tahmini |
-| retail-sales-forecasting | DeFacto | Perakende satis tahmini |
-| planogram-optimization | (perakende) | Raf yerlesim optimizasyonu |
-| carbon-footprint-causal-ai | (uretim) | Nedensel YZ ile karbon ayak izi |
+| [intermittent-demand-forecasting](https://github.com/iuc-ie/2026-intermittent-demand-forecasting) | İmalat | Aralıklı talep & stok tahmini |
+| [retail-sales-forecasting](https://github.com/iuc-ie/2026-retail-sales-forecasting) | Perakende | Mağaza-gün satış tahmini (LightGBM) |
+| [planogram-optimization](https://github.com/iuc-ie/2026-planogram-optimization) | Perakende | Segmentasyon + raf yerleşim optimizasyonu |
+| [cutting-stock-optimization](https://github.com/iuc-ie/2026-cutting-stock-optimization) | Üretim | Kesim planı & fire optimizasyonu |
+| [carbon-footprint-causal-ai](https://github.com/iuc-ie/2026-carbon-footprint-causal-ai) | Sürdürülebilirlik | Nedensel YZ ile karbon ayak izi |
 
-**16 gercek proje · 8 sektor ortagi · Python + Jupyter**
+**16 gerçek proje · Python + Jupyter · her yıl büyüyen arşiv**
 
-> Butun projeleri yil / konu / firma / yontem ile filtreleyerek aramak icin: **[Bitirme Vitrini](https://iuc-ie.github.io)** (yakinda) · Etiketlere gore keşif icin repolardaki `topics` alanlarini kullanin.
+> Tüm projeleri konularına göre keşfetmek için repolardaki `topics` etiketlerini kullanın.
 
-📍 Istanbul · 🔗 [Bolum web sitesi] · ✉️ [iletisim]
+📍 İstanbul · 🌐 [endustrimuhendislik.iuc.edu.tr](https://endustrimuhendislik.iuc.edu.tr) · ✉️ endustri.muhendisligi@iuc.edu.tr
