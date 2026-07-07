@@ -1,6 +1,6 @@
 # İstanbul Üniversitesi-Cerrahpaşa · Endüstri Mühendisliği
 
-Bu organizasyon, bölümümüz öğrencilerinin **bitirme projelerinin açık kaynak kodlarını** barındırır. Her proje gerçek bir sektör ortağıyla, gerçek bir iş problemini çözmek üzere geliştirildi — sonuçları ölçülebilir, kodu klonlanıp çalıştırılabilir.
+Bu organizasyon, bölümümüz öğrencilerinin **bitirme projelerinin açık kaynak kodlarını** barındırır. Projeler uygulamalı mühendislik problemlerini ele alır; sonuçları ölçülebilir, kodu klonlanıp çalıştırılabilir.
 
 ---
 
@@ -13,7 +13,7 @@ Bu organizasyon, bölümümüz öğrencilerinin **bitirme projelerinin açık ka
 | [cutting-stock-optimization](https://github.com/iuc-ie/2026-cutting-stock-optimization) | Üretim | Kesim planı & fire optimizasyonu |
 | [carbon-footprint-causal-ai](https://github.com/iuc-ie/2026-carbon-footprint-causal-ai) | Sürdürülebilirlik | Nedensel YZ ile karbon ayak izi |
 
-**16 gerçek proje · Python + Jupyter · her yıl büyüyen arşiv**
+**16 proje · Python + Jupyter · her yıl büyüyen arşiv**
 
 > Tüm projeleri konularına göre keşfetmek için repolardaki `topics` etiketlerini kullanın.
 
@@ -24,7 +24,7 @@ Bu organizasyon, bölümümüz öğrencilerinin **bitirme projelerinin açık ka
 
 # Istanbul University-Cerrahpaşa · Industrial Engineering
 
-This organization hosts the **open-source code of our students' capstone projects.** Each project was developed with a real industry partner to solve a real business problem — results are measurable and the code can be cloned and run.
+This organization hosts the **open-source code of our students' capstone projects.** The projects address applied engineering problems; results are measurable and the code can be cloned and run.
 
 ### 📁 Class of 2026 — Featured Projects
 | Project | Domain | What it does |
@@ -35,7 +35,7 @@ This organization hosts the **open-source code of our students' capstone project
 | [cutting-stock-optimization](https://github.com/iuc-ie/2026-cutting-stock-optimization) | Manufacturing | Cutting plan & waste optimization |
 | [carbon-footprint-causal-ai](https://github.com/iuc-ie/2026-carbon-footprint-causal-ai) | Sustainability | Causal AI for carbon footprint reduction |
 
-**16 real-world projects · Python + Jupyter · a growing yearly archive**
+**16 projects · Python + Jupyter · a growing yearly archive**
 
 > Explore all projects by subject using the `topics` tags on each repository.
 
