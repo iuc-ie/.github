@@ -1,7 +1,5 @@
 # İstanbul Üniversitesi-Cerrahpaşa · Endüstri Mühendisliği
 
-### Gerçek firmalar. Gerçek veri. Çalışan, tekrarlanabilir kod.
-
 Bu organizasyon, bölümümüz öğrencilerinin **bitirme projelerinin açık kaynak kodlarını** barındırır. Her proje gerçek bir sektör ortağıyla, gerçek bir iş problemini çözmek üzere geliştirildi — sonuçları ölçülebilir, kodu klonlanıp çalıştırılabilir.
 
 **MÜDEK / EUR-ACE** akreditasyonlu (2025–2028) bir programız; mezunlarımızın **%71'i ilk 6 ayda** işe başlıyor *(Kaynak: REBİS)*.
