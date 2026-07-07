@@ -4,13 +4,6 @@ Bu organizasyon, bölümümüz öğrencilerinin **bitirme projelerinin açık ka
 
 ---
 
-### 👋 Ziyaretçi Rehberi
-- **🎓 YKS adayları / veliler:** Mezun olunca sahip olacağınız portföyün örnekleri burada. "İyi bölüm" demiyoruz — kanıtı gösteriyoruz.
-- **💼 İşverenler / İK:** Mezunumuzu işe almadan önce kodunu görün. Her repoda problem, yöntem ve ölçülebilir sonuç yer alır.
-- **🔬 Akademisyenler:** Projeler sürümlenmiş, tekrarlanabilir ve DOI ile atıf yapılabilir olacak şekilde arşivleniyor.
-
----
-
 ### 📁 2026 Kohortu — Öne Çıkan Projeler
 | Proje | Alan | Ne yapıyor? |
 |---|---|---|
